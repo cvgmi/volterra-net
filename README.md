@@ -1,6 +1,8 @@
 # volterra-net
 VolterraNet implementation and Spherical MNIST experiment. 
 
+Please cite the following paper if you use this code: 
+
 Banerjee, M., Chakraborty, R., Bouza, J., & Vemuri, B. C. (2020). VolterraNet: A higher order convolutional network with group equivariance for homogeneous manifolds. IEEE Transactions on Pattern Analysis and Machine Intelligence.
 
 ## Requirements
